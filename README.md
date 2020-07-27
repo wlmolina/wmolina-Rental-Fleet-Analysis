@@ -1,5 +1,5 @@
 # William Molina Lariat Rental Fleet Analysis
-<h1>HR Compensation Strategy Model</h1>
+Lariat Car Rental Revenue Analysis
 
 Files included:
 1. <a href="https://github.com/wlmolina/wmolina-Rental-Fleet-Analysis/blob/master/Lariat-Profiltability-Analysis-TB.xlsx">Lariat Rental Company Revenue Analysis.xlsx</a>
